@@ -1,12 +1,31 @@
-## Hello there 👋
+# Hello there 👋
 -------------------
 
-### I’m currently working on:
-  * Python
-    * Scrapy
-    * Django
+## I’m currently working with
+My current professional skills
+### Python
+4+ years working with Python
+#### API
+Know very well how to make REST APIs with Python.
+I'm familiar with the following frameworks:
+- Django REST framework
+- Falcon
+  - I personally highly recommend this one
+- Flask
+#### Web Crawler
+High experience on making web crawlers
+- Scrapy
+#### Other
+I also consider scripting a part of my knowledge with Python
 
-### I’m currently learning:
+## Professional Skills
+
+### Go Lang
+REST APIs
+### Javascript
+Front-end and Back-end
+
+## I’m currently learning:
   * JavaScript
     * Node.js
     * React.js
